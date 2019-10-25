@@ -1,0 +1,18 @@
+.heading-primary {
+  color: #55c57a;
+  text-align: center;
+  margin-top: 10px; }
+
+.heading-secondary {
+  color: #7ed56f;
+  text-align: center;
+  margin-top: 15px; }
+
+.navigation {
+  background-color: yellow;
+  padding: 20px; }
+  .navigation ul {
+    list-style: none; }
+  .navigation li {
+    text-align: center;
+    margin-top: 20px; }

@@ -1,0 +1,27 @@
+$color-primary: #55c57a;
+$color-secondary: #7ed56f;
+
+// Variables
+.heading-primary {
+    color: $color-primary;
+    text-align: center;
+    margin-top: 10px;
+}
+.heading-secondary {
+    color: $color-secondary;
+    text-align: center;
+    margin-top: 15px;
+}
+
+// Nesting
+.navigation {
+    background-color: yellow;
+    padding: 20px;
+    ul {
+        list-style: none;
+    }
+    li {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
